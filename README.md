@@ -13,7 +13,7 @@ This project is a Power BI dashboard analyzing e-commerce sales performance acro
 - Compared regional sales performance
 
 ## 📷 Dashboard Preview
-![E-commerce Sales Dashboard](e_commerce_dashboard.png)
+![E-commerce Sales Dashboard](e_commerce%20dashboard.png)
 
 ## 📌 Conclusion
 This dashboard provides insights into sales patterns and helps in making data-driven business decisions.
